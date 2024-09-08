@@ -30,9 +30,6 @@ n_iter=100
 n=newton_method(a,n_iter)
 print(f"Square root of the number: {n}")
 ```
-DEEPIKA R
-
-212223230038
 ## Output:
 ![image](https://github.com/user-attachments/assets/f9a6ec43-e3ab-440f-a304-ed59dd054416)
 
